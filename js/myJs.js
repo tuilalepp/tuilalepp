@@ -96,7 +96,7 @@ $('#yes').click(function() {
     var audio = new Audio('sound/tick.mp3');
     audio.play();
     Swal.fire({
-        title: 'Seo bạn thích mình dajaaa :>',
+        title: 'Seo bạn thích mình dạ :>',
         html: true,
         width: 900,
         padding: '3em',
