@@ -122,7 +122,7 @@ $('#yes').click(function() {
                 confirmButtonText: 'Okiiiii lun <3',
                 background: '#fff url("img/iput-bg.jpg")',
                 title: 'Mình cũng yêu bạn dữ lắm luôn á',
-                text: "Để hết dịch mình dắt bạn đi ăn nhé. iu cu bé nhiều lắm luôn. Trả lời tin nhắn của mình đi bạn ơi.",
+                text: "Để hết dịch mình dắt bạn đi ăn nhé. Iu công túa cơ mà trả lời tin nhắn của mình đi bạn ơi.",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
                     window.location = 'https://www.facebook.com/messages/t/lepphotographer2607/';
